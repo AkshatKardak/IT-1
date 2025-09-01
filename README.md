@@ -43,3 +43,6 @@ The website's header and footer prominently display contact details, including a
 
 ## Contributors
 Akshat Kardak - GitHub Profile **"https://github.com/AkshatKardak"**
+
+# Acknowledgement
+Inspired from offical [Bridge Group Solutions](https://www.bridgegroupsolutions.com/) Homepage
